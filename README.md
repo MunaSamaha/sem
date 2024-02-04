@@ -6,7 +6,7 @@
 
 * Master Build Status ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/MunaSamaha/sem/main.yml?branch=master)
 
-* Develop Branch Status ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/MunaSamaha/sem/main.yml?branch=<develop branch>)
+* Develop Branch Status ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/MunaSamaha/sem/main.yml?branch=master)
 
 * License [![LICENSE](https://img.shields.io/github/license/MunaSamaha/sem.svg?style=flat-square)](https://github.com/MunaSamaha/sem/blob/master/LICENSE)
 
