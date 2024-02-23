@@ -13,3 +13,4 @@ COPY test_db/employees.sql /docker-entrypoint-initdb.d
 ENV MYSQL_ROOT_PASSWORD example
 
 
+
